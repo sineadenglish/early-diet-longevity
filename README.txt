@@ -1,4 +1,4 @@
-This is the information file for the code used in the paper "Does nutrition early in life affect longevity? A meta-analysis across experimental studies". 
+This is the information file for the code used in the paper "Does early-life diet affect longevity? A meta-analysis across experimental studies". 
 
 Any comments or questions, please contact Sinead English: sineadenglish[at]cantab[dot]net
 
